@@ -34,9 +34,11 @@ This table data informed the following chart focusing on the percentages:
 
 ![Chart of Outcomes by Goals](Resources/Outcomes_vs_Goals.png)
 
-Notably, the data contains play campaigns that were canceled. 
+According to the chart, campaign failures greatly increase by the $15,000 category. Notably, the data contains no play campaigns that were canceled.
 
 ### Challenges and Difficulties Encountered
+
+Potential challenges with this analysis and report could include a lack of familiarity with Excel or GitHub, but seeking out documentation can overcome these.
 
 ## Results
 
